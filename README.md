@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://laravel.com/img/logomark.min.svg" width="100" alt="Laravel Logo">
+</p>
+
 # Laravel-Cource-Assignments
 
 Welcome to the repository containing assignments for the Laravel course.  
